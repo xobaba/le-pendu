@@ -1,2 +1,2 @@
 # le-pendu
-Pneud en JS
+pendu en JS
